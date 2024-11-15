@@ -1,0 +1,29 @@
+* {
+
+}
+
+/*style for body*/
+
+body {
+	background-color: #F4EEE0;
+}
+
+/*style for container*/
+.container{
+	background-color: #4F4557;
+	color: white;
+
+}
+
+/*style for img*/
+img{
+	width: 140px;
+}
+
+.footer{
+	background-color:#E5E1DA;
+	border: 10px solid #4F4557;
+	padding: 20px;
+	text-align:center;
+}
+
